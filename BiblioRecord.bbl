@@ -1,0 +1,231 @@
+\begin{thebibliography}{}
+
+\bibitem[Abraham et~al., 2003]{abraham2003unsupervised}
+Abraham, C., Cornillon, P.-A., Matzner-L{\o}ber, E., and Molinari, N. (2003).
+\newblock Unsupervised curve clustering using b-splines.
+\newblock {\em Scandinavian journal of statistics}, 30(3):581--595.
+
+\bibitem[Cleveland et~al., 1990]{cleveland1990stl}
+Cleveland, R.~B., Cleveland, W.~S., McRae, J.~E., and Terpenning, I. (1990).
+\newblock Stl: a seasonal-trend decomposition.
+\newblock {\em Journal of official statistics}, 6(1):3--73.
+
+\bibitem[Dakos et~al., 2015]{dakos2015resilience}
+Dakos, V., Carpenter, S.~R., van Nes, E.~H., and Scheffer, M. (2015).
+\newblock Resilience indicators: prospects and limitations for early warnings
+  of regime shifts.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 370(1659):20130263.
+
+\bibitem[Desmond et~al., 2015]{desmond2015light}
+Desmond, M.~J., Pritchard, D.~W., and Hepburn, C.~D. (2015).
+\newblock Light limitation within southern new zealand kelp forest communities.
+\newblock {\em PLoS One}, 10(4):e0123676.
+
+\bibitem[Filbee-Dexter and Scheibling, 2014]{filbee2014sea}
+Filbee-Dexter, K. and Scheibling, R.~E. (2014).
+\newblock Sea urchin barrens as alternative stable states of collapsed kelp
+  ecosystems.
+\newblock {\em Marine ecology progress series}, 495:1--25.
+
+\bibitem[Filbee-Dexter and Wernberg, 2018]{filbee2018rise}
+Filbee-Dexter, K. and Wernberg, T. (2018).
+\newblock Rise of turfs: A new battlefront for globally declining kelp forests.
+\newblock {\em BioScience}, 68(2):64--76.
+
+\bibitem[Graham et~al., 2007]{graham2007deep}
+Graham, M.~H., Kinlan, B.~P., Druehl, L.~D., Garske, L.~E., and Banks, S.
+  (2007).
+\newblock Deep-water kelp refugia as potential hotspots of tropical marine
+  diversity and productivity.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  104(42):16576--16580.
+
+\bibitem[Jacques and Preda, 2014]{jacques2014functional}
+Jacques, J. and Preda, C. (2014).
+\newblock Functional data clustering: a survey.
+\newblock {\em Advances in Data Analysis and Classification}, 8(3):231--255.
+
+\bibitem[Kirk, 1994]{kirk1994}
+Kirk, J.~T. (1994).
+\newblock {\em Light and photosynthesis in aquatic ecosystems}.
+\newblock Cambridge university press.
+
+\bibitem[Krumhansl et~al., 2016]{krumhansl2016global}
+Krumhansl, K.~A., Okamoto, D.~K., Rassweiler, A., Novak, M., Bolton, J.~J.,
+  Cavanaugh, K.~C., Connell, S.~D., Johnson, C.~R., Konar, B., Ling, S.~D.,
+  et~al. (2016).
+\newblock Global patterns of kelp forest change over the past half-century.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  113(48):13785--13790.
+
+\bibitem[Leleu et~al., 2012]{leleu2012mapping}
+Leleu, K., Remy-Zephir, B., Grace, R., and Costello, M.~J. (2012).
+\newblock Mapping habitats in a marine reserve showed how a 30-year trophic
+  cascade altered ecosystem structure.
+\newblock {\em Biological Conservation}, 155:193--201.
+
+\bibitem[MacDiarmid et~al., 2013]{macdiarmid2013new}
+MacDiarmid, A.~B., Law, C.~S., Pinkerton, M., and Zeldis, J. (2013).
+\newblock New zealand marine ecosystem services.
+\newblock {\em Ecosystem services in New Zealand--Conditions and trends}, pages
+  238--253.
+
+\bibitem[Magno-Canto et~al., 2019]{magno2019model}
+Magno-Canto, M.~M., McKinna, L.~I., Robson, B.~J., and Fabricius, K.~E. (2019).
+\newblock Model for deriving benthic irradiance in the great barrier reef from
+  modis satellite imagery.
+\newblock {\em Optics Express}, 27(20):A1350--A1371.
+
+\bibitem[Murray et~al., 2018]{Murray2018}
+Murray, N.~J., Keith, D.~A., Bland, L.~M., Ferrari, R., Lyons, M.~B., Lucas,
+  R., Pettorelli, N., and Nicholson, E. (2018).
+\newblock The role of satellite remote sensing in structured ecosystem risk
+  assessments.
+\newblock {\em Science of the Total Environment}, 619:249--257.
+
+\bibitem[Nelson et~al., 2015]{nelson2015beyond}
+Nelson, W., Neill, K., D’Archino, R., Anderson, T., Beaumont, J., and Dalen,
+  J. (2015).
+\newblock Beyond diving depths: deepwater macroalgae in the new zealand region.
+\newblock {\em Marine Biodiversity}, 45(4):797--818.
+
+\bibitem[Qian, 2016]{qian2016environmental}
+Qian, S.~S. (2016).
+\newblock {\em Environmental and ecological statistics with R}.
+\newblock Chapman and Hall/CRC.
+
+\bibitem[Ripple et~al., 2019]{ripple2019world}
+Ripple, W.~J., Wolf, C., Newsome, T.~M., Barnard, P., and Moomaw, W.~R. (2019).
+\newblock World scientists’ warning of a climate emergency.
+\newblock {\em BioScience}.
+
+\bibitem[Roberts et~al., 2018]{roberts2018tidal}
+Roberts, E.~M., Bowers, D.~G., and Davies, A.~J. (2018).
+\newblock Tidal modulation of seabed light and its implications for benthic
+  algae.
+\newblock {\em Limnology and Oceanography}, 63(1):91--106.
+
+\bibitem[Rockstr{\"o}m et~al., 2009]{rockstrom2009safe}
+Rockstr{\"o}m, J., Steffen, W., Noone, K., Persson, {\AA}., Chapin~III, F.~S.,
+  Lambin, E.~F., Lenton, T.~M., Scheffer, M., Folke, C., Schellnhuber, H.~J.,
+  et~al. (2009).
+\newblock A safe operating space for humanity.
+\newblock {\em nature}, 461(7263):472.
+
+\bibitem[Runcie et~al., 2008]{runcie2008situ}
+Runcie, J.~W., Gurgel, C.~F., and Mcdermid, K.~J. (2008).
+\newblock In situ photosynthetic rates of tropical marine macroalgae at their
+  lower depth limit.
+\newblock {\em European Journal of Phycology}, 43(4):377--388.
+
+\bibitem[Sala et~al., 1998]{sala1998fishing}
+Sala, E., Boudouresque, C., and Harmelin-Vivien, M. (1998).
+\newblock Fishing, trophic cascades, and the structure of algal assemblages:
+  evaluation of an old but untested paradigm.
+\newblock {\em Oikos}, pages 425--439.
+
+\bibitem[Scheffer et~al., 2009]{scheffer2009early}
+Scheffer, M., Bascompte, J., Brock, W.~A., Brovkin, V., Carpenter, S.~R.,
+  Dakos, V., Held, H., Van~Nes, E.~H., Rietkerk, M., and Sugihara, G. (2009).
+\newblock Early-warning signals for critical transitions.
+\newblock {\em Nature}, 461(7260):53.
+
+\bibitem[Scheffer et~al., 2001]{scheffer2001catastrophic}
+Scheffer, M., Carpenter, S., Foley, J.~A., Folke, C., and Walker, B. (2001).
+\newblock Catastrophic shifts in ecosystems.
+\newblock {\em Nature}, 413(6856):591.
+
+\bibitem[Scheffer et~al., 2012]{scheffer2012anticipating}
+Scheffer, M., Carpenter, S.~R., Lenton, T.~M., Bascompte, J., Brock, W., Dakos,
+  V., Van~de Koppel, J., Van~de Leemput, I.~A., Levin, S.~A., Van~Nes, E.~H.,
+  et~al. (2012).
+\newblock Anticipating critical transitions.
+\newblock {\em science}, 338(6105):344--348.
+
+\bibitem[Schiel et~al., 2019]{schiel2019kaikoura}
+Schiel, D.~R., Alestra, T., Gerrity, S., Orchard, S., Dunmore, R., Pirker, J.,
+  Lilley, S., Tait, L., Hickford, M., and Thomsen, M. (2019).
+\newblock The kaik{\=o}ura earthquake in southern new zealand: Loss of
+  connectivity of marine communities and the necessity of a cross-ecosystem
+  perspective.
+\newblock {\em Aquatic Conservation: Marine and Freshwater Ecosystems}.
+
+\bibitem[Seers and Shears, 2015]{seers2015spatio}
+Seers, B.~M. and Shears, N.~T. (2015).
+\newblock Spatio-temporal patterns in coastal turbidity--long-term trends and
+  drivers of variation across an estuarine-open coast gradient.
+\newblock {\em Estuarine, Coastal and Shelf Science}, 154:137--151.
+
+\bibitem[Sun and Kok, 2007]{sun2007solar}
+Sun, Y. and Kok, R. (2007).
+\newblock A solar radiation model with a fourier transform approach.
+\newblock {\em Canadian Biosystems Engineering}, 49:7.
+
+\bibitem[Tait, 2019]{tait2019giant}
+Tait, L.~W. (2019).
+\newblock Giant kelp forests at critical light thresholds show compromised
+  ecological resilience to environmental and biological drivers.
+\newblock {\em Estuarine, Coastal and Shelf Science}, 219:231--241.
+
+\bibitem[Thomsen et~al., 2019]{thomsen2019local}
+Thomsen, M.~S., Mondardini, L., Alestra, T., Gerrity, S., Tait, L., South, P.,
+  Lilley, S., and Schiel, D. (2019).
+\newblock Local extinction of bull kelp (durvillaea spp.) due to a marine
+  heatwave.
+\newblock {\em Frontiers in Marine Science}, 6:84.
+
+\bibitem[Thrush et~al., 2009]{thrush2009forecasting}
+Thrush, S.~F., Hewitt, J.~E., Dayton, P.~K., Coco, G., Lohrer, A.~M., Norkko,
+  A., Norkko, J., and Chiantore, M. (2009).
+\newblock Forecasting the limits of resilience: integrating empirical research
+  with theory.
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
+  276(1671):3209--3217.
+
+\bibitem[Van~Belzen et~al., 2017a]{van2017vegetation}
+Van~Belzen, J., Van~de Koppel, J., Kirwan, M.~L., Van Der~Wal, D., Herman,
+  P.~M., Dakos, V., K{\'e}fi, S., Scheffer, M., Guntenspergen, G.~R., and
+  Bouma, T.~J. (2017a).
+\newblock Vegetation recovery in tidal marshes reveals critical slowing down
+  under increased inundation.
+\newblock {\em Nature communications}, 8:15811.
+
+\bibitem[Van~Belzen et~al., 2017b]{van2017timing}
+Van~Belzen, J., Van~de Koppel, J., Van Der~Wal, D., Herman, P.~M., Dakos, V.,
+  K{\'e}fi, S., Scheffer, M., and Bouma, T.~J. (2017b).
+\newblock Timing recovery of ecosystems in sequential remotely sensed and
+  simulated data.
+\newblock {\em Protocol Exchange}.
+
+\bibitem[Verbesselt et~al., 2010]{verbesselt2010detecting}
+Verbesselt, J., Hyndman, R., Newnham, G., and Culvenor, D. (2010).
+\newblock Detecting trend and seasonal changes in satellite image time series.
+\newblock {\em Remote sensing of Environment}, 114(1):106--115.
+
+\bibitem[Wernberg et~al., 2016]{wernberg2016}
+Wernberg, T., Bennett, S., Babcock, R.~C., De~Bettignies, T., Cure, K.,
+  Depczynski, M., Dufois, F., Fromont, J., Fulton, C.~J., Hovey, R.~K., et~al.
+  (2016).
+\newblock Climate-driven regime shift of a temperate marine ecosystem.
+\newblock {\em Science}, 353(6295):169--172.
+
+\bibitem[Wernberg and Thomsen, 2005]{wernberg2005effect}
+Wernberg, T. and Thomsen, M.~S. (2005).
+\newblock The effect of wave exposure on the morphology of ecklonia radiata.
+\newblock {\em Aquatic Botany}, 83(1):61--70.
+
+\bibitem[Wernberg et~al., 2010]{wernberg2010decreasing}
+Wernberg, T., Thomsen, M.~S., Tuya, F., Kendrick, G.~A., Staehr, P.~A., and
+  Toohey, B.~D. (2010).
+\newblock Decreasing resilience of kelp beds along a latitudinal temperature
+  gradient: potential implications for a warmer future.
+\newblock {\em Ecology letters}, 13(6):685--694.
+
+\bibitem[White et~al., 1997]{white1997response}
+White, W.~B., Lean, J., Cayan, D.~R., and Dettinger, M.~D. (1997).
+\newblock Response of global upper ocean temperature to changing solar
+  irradiance.
+\newblock {\em Journal of Geophysical Research: Oceans}, 102(C2):3255--3266.
+
+\end{thebibliography}
